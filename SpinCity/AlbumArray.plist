@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Regatta de Blanc</string>
+		<key>artist</key>
+		<string>The Police</string>
+		<key>summary</key>
+		<string>Walking on the moon...</string>
+		<key>price</key>
+		<string>14.99</string>
+		<key>locationInStore</key>
+		<string>Section P</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Oulandos d&apos; Amour</string>
+		<key>artist</key>
+		<string>The Police</string>
+		<key>summary</key>
+		<string>Next to you...</string>
+		<key>price</key>
+		<string>14.99</string>
+		<key>locationInStore</key>
+		<string>Section P</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Synchronicity</string>
+		<key>artist</key>
+		<string>The Police</string>
+		<key>summary</key>
+		<string>With one breath...</string>
+		<key>price</key>
+		<string>14.99</string>
+		<key>locationInStore</key>
+		<string>Section P</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Ghost in the Machine</string>
+		<key>artist</key>
+		<string>The Police</string>
+		<key>summary</key>
+		<string>Every little thing...</string>
+		<key>price</key>
+		<string>14.99</string>
+		<key>locationInStore</key>
+		<string>Section P</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Zenyatta Mondatta</string>
+		<key>artist</key>
+		<string>The Police</string>
+		<key>summary</key>
+		<string>Don&apos;t think me unkind...</string>
+		<key>price</key>
+		<string>14.99</string>
+		<key>locationInStore</key>
+		<string>Section P</string>
+	</dict>
+</array>
+</plist>
